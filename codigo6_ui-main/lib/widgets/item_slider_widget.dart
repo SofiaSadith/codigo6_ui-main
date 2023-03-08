@@ -64,7 +64,7 @@ class ItemSliderWidget extends StatelessWidget {
                       style: TextStyle(
                         color: Color(0xff43B995),
                         fontWeight: FontWeight.w700,
-                        fontSize: 15.0,
+                        fontSize: 13.0,
                       ),
                     ),
                     Text(
@@ -72,7 +72,7 @@ class ItemSliderWidget extends StatelessWidget {
                       style: TextStyle(
                         color: Color(0xff2A4055).withOpacity(0.7),
                         fontWeight: FontWeight.w600,
-                        fontSize: 15.0,
+                        fontSize: 13.0,
                       ),
                     ),
                   ],

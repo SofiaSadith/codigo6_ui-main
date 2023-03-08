@@ -1,9 +1,5 @@
-import 'package:codigo6_ui/widgets/item_category_widget.dart';
-import 'package:codigo6_ui/widgets/item_recommedation_widget.dart';
-import 'package:codigo6_ui/widgets/item_recommendation2_widget.dart';
 import 'package:codigo6_ui/widgets/galery_widget.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 
 class Example5Page extends StatelessWidget {
   @override
